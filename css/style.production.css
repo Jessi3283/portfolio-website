@@ -7,6 +7,8 @@
 
 
 
+
+
 a {
   color: #000000;
 }
@@ -203,6 +205,10 @@ button:hover, button:focus {
   margin-left: 15px;
 }
 
+.list-item {
+  list-style: none;
+}
+
 .grid {
   display: -ms-grid;
   display: grid;
@@ -348,6 +354,7 @@ button:hover, button:focus {
             transform: translate(100px, 48px);
   }
 }
+
 
 .cloud-back {
   -webkit-animation: 34s cloud-move-reverse infinite alternate linear;
