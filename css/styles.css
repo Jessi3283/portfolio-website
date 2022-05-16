@@ -40,9 +40,6 @@ h3 {
   font-weight: 700;
   }
 
-  a {
-    color: var(--background-color);
-  }
 
   a:visited {
   /* visited link */
